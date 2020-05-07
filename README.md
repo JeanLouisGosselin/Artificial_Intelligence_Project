@@ -3,3 +3,5 @@ This is my year-3 university project on Python and Artificial Intelligence. This
 The main file attached is a .MD file. Tu run this file, simply open in Jupyter Notebook then save/run as a IPYNB file.
 
 Two project reports have been added: the first detailing some of the steps followed and the problems encountered in the overall project, the second detailing the contributions I made to this 2-person project.
+
+A zip folder containing the raw data processed in this project has also been added.
